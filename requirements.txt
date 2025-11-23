@@ -1,6 +1,6 @@
 #Core Frameworks for Deep Learning and Web App
 
-tensorflow==2.10.0
+tensorflow==2.20.0
 streamlit==1.36.0
 
 #Data Handling and Image Processing
