@@ -1,0 +1,10 @@
+Core Frameworks for Deep Learning and Web App
+
+tensorflow
+streamlit
+
+Data Handling and Image Processing
+
+numpy
+Pillow
+matplotlib
