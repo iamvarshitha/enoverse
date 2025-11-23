@@ -1,10 +1,10 @@
 Core Frameworks for Deep Learning and Web App
 
-tensorflow
-streamlit
+tensorflow==2.16.1
+streamlit==1.36.0
 
 Data Handling and Image Processing
 
-numpy
+numpy==1.26.4
 Pillow
 matplotlib
